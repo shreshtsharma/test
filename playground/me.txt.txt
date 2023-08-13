@@ -1,0 +1,5 @@
+{{#user}
+Name: Shresht Sharma
+Skills: HTML, CSS, JS, Python, C++, Problem Solving,Git.
+Email: sharmashresht7@gmail.com
+{{/user}}
